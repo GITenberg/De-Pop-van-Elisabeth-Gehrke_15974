@@ -1,0 +1,27 @@
+_repo: De-Pop-van-Elisabeth-Gehrke_15974
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mollinger-Hooyer, Dina
+    alias: Ellen
+    birthdate: 1871
+    deathdate: 1940
+    gutenberg_agent_id: '6403'
+    url: http://www.gutenberg.org/2009/agents/6403
+description: ''
+gutenberg_issued: '2005-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15974'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: De Pop van Elisabeth Gehrke
+url: http://www.gutenberg.org/ebooks/15974
